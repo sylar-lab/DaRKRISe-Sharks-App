@@ -1,0 +1,13 @@
+venv/
+.idea/
+*.zip
+*.json
+dist/
+build/
+*.pptx
+__pycache__/
+**/__pychache__/
+*/__pychache__/
+*/output_files/
+/output_files/
+development/*
